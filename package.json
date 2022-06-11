@@ -1,0 +1,26 @@
+{
+  "name": "appjobs-ta",
+  "version": "1.0.0",
+  "description": "Automação das APIs backend",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "fernando.pandolfo",
+  "license": "ISC",
+  "homepage": "",
+  "devDependencies": {
+    "cypress": "^9.6.0"
+  },
+  "dependencies": {
+    "pure-gen": "^2.0.1"
+  },
+  "bugs": {
+    "url": "https://bitbucket.org/petzdigital/wsm-ta/issues"
+  }
+}
